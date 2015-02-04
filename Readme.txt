@@ -1,0 +1,1 @@
+This is a simple Android Studio Project to control Wifi LED lights made at HirikiLabs.
